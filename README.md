@@ -23,5 +23,21 @@ Use Git Bash (Windows) / Terminal (Mac) to navigate to the directory containing 
 
 ### Local Blockchain Setup
 ---
-Creating the Genesis Block: Create a local network and Genesis Block using this command: ./puppeth
+Create the Genesis Block: Create a local network and Genesis Block using this command: 
+
+./puppeth
+
 ![Puppeth_Config](https://user-images.githubusercontent.com/83500098/137602768-937284e9-40f1-44a9-9ead-1fda63f80f19.PNG)
+---
+Next, Create two local nodes using this command:
+
+NODE1
+./geth account new --datadir node1
+
+![Initialize_Node1](https://user-images.githubusercontent.com/83500098/137602822-a65654b6-9297-4b2f-b7cc-f6ffe80e6241.PNG)
+
+NODE2
+./geth account new --datadir node2
+
+![Initialize_Node2](https://user-images.githubusercontent.com/83500098/137602831-ecf46d7b-6a52-4002-bcb6-afda2c5e1a23.PNG)
+
