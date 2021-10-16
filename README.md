@@ -43,4 +43,11 @@ NODE2: (open a second terminal, navigate to the directory where both nodes are s
 
 ![Initialize_Node2](https://user-images.githubusercontent.com/83500098/137602831-ecf46d7b-6a52-4002-bcb6-afda2c5e1a23.PNG)
 ---
-### Start the Blockchain and begin mining blocks
+### Unlock nodes and start mining blocks with these commands:
+
+./geth --datadir node1 --unlock "node1_public_account" --mine --rpc --allow-insecure-unlock
+
+./geth --datadir node2 --unlock "node2_public_account" --mine --port 30304 --bootnodes "enode://NODE1_ENODE" --ipcdisable --allow-insecure-unlock
+
+![Enode](https://user-images.githubusercontent.com/83500098/137603013-56693fc7-5129-4de4-8832-dbbce0c216f0.PNG)
+---
