@@ -11,5 +11,12 @@ I loaded the testnet accounts with fake Ethereum which can be used for transacti
 
 Tokens inherently have no value in a testnet environment, so we will provide pre-configured accounts and "nodes" for an easy setup. Below is the documentation for other developers on how to start using the pre-configured nodes and accounts that I built.
 
-Preliminary Steps - Installing dependencies and environment configuration:
-###
+### Preliminary Steps - Installing dependencies and environment configuration:
+---
+Download the Blockchain tools (Geth & Tools): https://geth.ethereum.org/downloads/
+This package includes the software to manage blockchain
+
+Download MyCrypto:https://download.mycrypto.com/
+Use MyCrypto GUI Wallet to connect to blockchain and make transactions
+
+Use Git Bash (Windows) / Terminal (Mac) to navigate to the directory containing Blockchain tools
