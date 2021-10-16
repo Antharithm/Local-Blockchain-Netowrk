@@ -20,3 +20,8 @@ Download MyCrypto:https://download.mycrypto.com/
 Use MyCrypto GUI Wallet to connect to blockchain and make transactions
 
 Use Git Bash (Windows) / Terminal (Mac) to navigate to the directory containing Blockchain tools
+
+### Local Blockchain Setup
+---
+Creating the Genesis Block: Create a local network and Genesis Block using this command: ./puppeth
+![Puppeth_Config](https://user-images.githubusercontent.com/83500098/137602768-937284e9-40f1-44a9-9ead-1fda63f80f19.PNG)
