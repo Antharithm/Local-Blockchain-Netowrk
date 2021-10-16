@@ -51,3 +51,16 @@ NODE2: (open a second terminal, navigate to the directory where both nodes are s
 
 ![Enode](https://user-images.githubusercontent.com/83500098/137603013-56693fc7-5129-4de4-8832-dbbce0c216f0.PNG)
 ---
+### Launch MyCrypto wallet and setup the custom node connection:
+
+![Show_Custom_Node](https://user-images.githubusercontent.com/83500098/137603047-e8c5a195-0351-4e7b-95a4-80ad2d7d5687.PNG)
+---
+### Unlock node1 account with the keystore file:
+
+![Unlock_Account_Keystore_file](https://user-images.githubusercontent.com/83500098/137603058-5bf2866d-166e-4f7e-8a5f-7d506990af50.PNG)
+---
+### Send testnet Ethereum to node2 account:.
+
+![Sent_ETH_to_Node2_and_Tx_Status](https://user-images.githubusercontent.com/83500098/137603083-c2ec839e-a000-46c8-87cc-7d6c91594f86.PNG)
+---
+### DONE!
