@@ -1,7 +1,7 @@
 # POA-Private-Blockchain
 A private Blockchain testnet for a developer team to use and explore the potentials for blockchain technology at ZBank.
 ###
-Backround
+### Backround
 ###
 ZBank is a small, innovative bank that is interested in exploring what blockchain technology can do for them and their customers.
 
