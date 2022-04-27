@@ -1,4 +1,4 @@
-# POA-Private-Blockchain
+# POA-Private-Blockchain-Network
 A private Blockchain testnet for a developer team to use and explore the potentials of blockchain technology at ZBank.
 ---
 ### Backround:
