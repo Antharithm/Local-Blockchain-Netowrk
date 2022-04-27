@@ -7,9 +7,9 @@ ZBank is a small, innovative bank that is interested in exploring what blockchai
 
 The goal of this project was to set up a private blockchain testnet for the developer team at Zbank so they can explore the potentials of this technology.
 
-I loaded the testnet accounts with fake Ethereum which can be used for transactions and behave just like real Ethereum would on mainnet. This will give our team of developers the freedom to experiment and get used to the process of sending and receiving transactions.
+Ethereum wallets and accounts are filled with testnet ETH which is used for all transaction fees. This will give our team of developers the freedom to experiment with test ETH before moving to mainnet.
 
-Tokens inherently have no value in a testnet environment, so we will provide pre-configured accounts and "nodes" for an easy setup. Below is the documentation for other developers on how to start using the pre-configured nodes and accounts that I built for launching a private blockchain.
+Tokens inherently have no value in a testnet environment, so we will provide pre-configured accounts and local nodes for an easy blockchain network system. Below is the documentation for other developers on how to start using the pre-configured nodes and accounts that I built for launching a local-private blockchain.
 
 ### Preliminary Steps - Installing dependencies and environment configuration:
 ---
